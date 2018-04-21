@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">508PokemonDatabase</string>
+
+    <string-array name = "Query">
+        <item>Min</item>
+        <item>Max</item>
+        <item>Between Range</item>
+    </string-array>
+
+</resources>
+
