@@ -2,10 +2,50 @@
     <string name="app_name">508PokemonDatabase</string>
 
     <string-array name = "Query">
-        <item>Min</item>
-        <item>Max</item>
-        <item>Between Range</item>
+        <item>Sort by Minimum First</item>
+        <item>Sort by Maximum First</item>
     </string-array>
+
+    <string-array name = "PokemonTypes">
+    <item>Psychic</item>
+    <item>Fighting</item>
+    <item>Dark</item>
+    <item>Ground</item>
+    <item>Flying</item>
+    <item>Electric</item>
+    <item>Normal</item>
+    <item>Bug</item>
+    <item>Ice</item>
+    <item>Water</item>
+    <item>Fire</item>
+</string-array>
+
+
+    <string-array name = "PokemonTypes2">
+        <item>Single Type (No 2nd Type)</item>
+        <item>Psychic</item>
+        <item>Fighting</item>
+        <item>Dark</item>
+        <item>Ground</item>
+        <item>Flying</item>
+        <item>Electric</item>
+        <item>Normal</item>
+        <item>Bug</item>
+        <item>Ice</item>
+        <item>Water</item>
+        <item>Fire</item>
+    </string-array>
+
+
+    <string-array name = "BaseStats">
+        <item>HP</item>
+        <item>Attack</item>
+        <item>Defense</item>
+        <item>Special Attack</item>
+        <item>Special Defense</item>
+        <item>Speed</item>
+    </string-array>
+
 
 </resources>
 
